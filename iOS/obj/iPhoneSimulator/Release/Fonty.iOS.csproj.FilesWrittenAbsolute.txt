@@ -1,0 +1,14 @@
+/Users/bakaresulaimon/Documents/sandbox/Fonty/iOS/obj/iPhoneSimulator/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/bakaresulaimon/Documents/sandbox/Fonty/iOS/obj/iPhoneSimulator/Release/ibtool/_BundleResourceWithLogicalName.items
+/Users/bakaresulaimon/Documents/sandbox/Fonty/iOS/obj/iPhoneSimulator/Release/actool/_PartialAppManifest.items
+/Users/bakaresulaimon/Documents/sandbox/Fonty/iOS/obj/iPhoneSimulator/Release/actool/_BundleResourceWithLogicalName.items
+/Users/bakaresulaimon/Documents/sandbox/Fonty/iOS/obj/iPhoneSimulator/Release/optimized/
+/Users/bakaresulaimon/Documents/sandbox/Fonty/iOS/bin/iPhoneSimulator/Release/Fonty.iOS.pdb
+/Users/bakaresulaimon/Documents/sandbox/Fonty/iOS/bin/iPhoneSimulator/Release/Fonty.iOS.exe
+/Users/bakaresulaimon/Documents/sandbox/Fonty/iOS/obj/iPhoneSimulator/Release/Fonty.iOS.exe
+/Users/bakaresulaimon/Documents/sandbox/Fonty/iOS/obj/iPhoneSimulator/Release/Fonty.iOS.pdb
+/Users/bakaresulaimon/Documents/sandbox/Fonty/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Core.dll
+/Users/bakaresulaimon/Documents/sandbox/Fonty/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Platform.dll
+/Users/bakaresulaimon/Documents/sandbox/Fonty/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Platform.iOS.dll
+/Users/bakaresulaimon/Documents/sandbox/Fonty/iOS/bin/iPhoneSimulator/Release/Xamarin.Forms.Xaml.dll
+/Users/bakaresulaimon/Documents/sandbox/Fonty/iOS/bin/iPhoneSimulator/Release/Fonty.dll

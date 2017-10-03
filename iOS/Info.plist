@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Fonty</string>
+	<key>CFBundleName</key>
+	<string>Fonty</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.companyname.Fonty</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MinimumOSVersion</key>
+	<string>8.0</string>
+	<key>UIDeviceFamily</key>
+	<array>
+		<integer>1</integer>
+		<integer>2</integer>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>XSAppIconAssets</key>
+	<string>Assets.xcassets/AppIcon.appiconset</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>OpenSans-Bold.ttf</string>
+		<string>OpenSans-Regular.ttf</string>
+		<string>OpenSans-Semibold.ttf</string>
+		<string>SFDisplay-Semibold.otf</string>
+		<string>SFText-RegularItalic.otf</string>
+		<string>SFText-Semibold.otf</string>
+		<string>Enlighten your Destiny.ttf</string>
+		<string>DK Sticky Toffee.otf</string>
+		<string>Star Dust - Demo.ttf</string>
+		<string>Saturday Nights Personal Use</string>
+		<string>Family&amp;Friends.ttf</string>
+		<string>KateCelebration.ttf</string>
+		<string>strikefighter3d.ttf</string>
+		<string>strikefighterexpandital.ttf</string>
+		<string>strikefightergrad.ttf</string>
+		<string>strikefighterlaser.ttf</string>
+		<string>strikefightertitle.ttf</string>
+		<string>Urban_Fresh_Air.ttf</string>
+		<string>WhoaBaby.ttf</string>
+		<string>Ribeat Regular.otf</string>
+	</array>
+</dict>
+</plist>

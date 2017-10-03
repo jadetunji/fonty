@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:Fonty"
+            x:Class="Fonty.FontyPage"
+            BackgroundColor="#CACADB">
+    
+    <StackLayout VerticalOptions="Center">
+        <Label Text="The quick brown fox" VerticalOptions="Center" HorizontalOptions="Center" FontSize="20">
+            <Label.FontFamily>
+                <OnPlatform x:TypeArguments="x:String">
+                    <OnPlatform.iOS>Star Dust - Demo</OnPlatform.iOS>
+					<OnPlatform.Android>.ttf#SFUIText-Semibold</OnPlatform.Android>
+                </OnPlatform>
+            </Label.FontFamily>
+        </Label>
+
+        <Label Text="The quick brown fox" VerticalOptions="Center" HorizontalOptions="Center" FontSize="40">
+            <Label.FontFamily>
+                <OnPlatform x:TypeArguments="x:String" iOS="Enlighten your Destiny" Android="Enlighten your Destiny.ttf#Enlighten your Destiny" />
+            </Label.FontFamily>
+        </Label>
+
+        <Label Text="The quick brown fox" VerticalOptions="Center" HorizontalOptions="Center" FontSize="30">
+            <Label.FontFamily>
+                <OnPlatform x:TypeArguments="x:String" iOS="Saturday Nights Personal Use" Android="Saturday Nights Personal Use.ttf#Saturday Nights Personal Use" />
+            </Label.FontFamily>
+        </Label>
+
+        <Label Text="The quick brown fox" VerticalOptions="Center" HorizontalOptions="Center" FontSize="30">
+            <Label.FontFamily>
+                <OnPlatform x:TypeArguments="x:String" iOS="Star Dust - Demo" Android="Star Dust - Demo.ttf#Star Dust - Demo" />
+            </Label.FontFamily>
+        </Label>
+
+		<Label Text="The quick brown fox" VerticalOptions="Center" HorizontalOptions="Center" FontSize="30">
+            <Label.FontFamily>
+                <OnPlatform x:TypeArguments="x:String" iOS="FamilyandFriends" Android="Family&amp;Friends.ttf#FamilyandFriends"  />
+            </Label.FontFamily>
+        </Label>
+
+		<Label Text="The quick brown fox" VerticalOptions="Center" HorizontalOptions="Center" FontSize="30">
+            <Label.FontFamily>
+                <OnPlatform x:TypeArguments="x:String" iOS="KateCelebration" Android="KateCelebration.ttf#KateCelebration" />
+            </Label.FontFamily>
+        </Label>
+
+		<Label Text="The quick brown fox" VerticalOptions="Center" HorizontalOptions="Center" FontSize="20">
+            <Label.FontFamily>
+                <OnPlatform x:TypeArguments="x:String" iOS="StrikeFighterGradient" Android="strikefightergrad.ttf#StrikeFighterGradient" />
+            </Label.FontFamily>
+        </Label>
+        
+		<Label Text="The quick brown fox" VerticalOptions="Center" HorizontalOptions="Center" FontSize="30">
+            <Label.FontFamily>
+                <OnPlatform x:TypeArguments="x:String" iOS="WhoaBaby" Android="WhoaBaby.ttf#WhoaBaby" />
+            </Label.FontFamily>
+        </Label>
+
+		<Label Text="The quick brown fox" VerticalOptions="Center" HorizontalOptions="Center" FontSize="20">
+            <Label.FontFamily>
+                <OnPlatform x:TypeArguments="x:String" iOS="Ribeat" Android="Ribeat Regular.otf#Ribeat" />
+            </Label.FontFamily>
+        </Label>
+        
+    </StackLayout>
+	
+</ContentPage>

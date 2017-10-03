@@ -1,0 +1,12 @@
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/obj/Debug/Fonty.App.xaml
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/obj/Debug/Fonty.FontyPage.xaml
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/obj/Debug/Fonty.App.xaml.g.cs
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/obj/Debug/Fonty.FontyPage.xaml.g.cs
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/bin/Debug/Fonty.pdb
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/bin/Debug/Fonty.dll
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/obj/Debug/Fonty.dll
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/obj/Debug/Fonty.pdb
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/bin/Debug/Xamarin.Forms.Core.dll
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/bin/Debug/Xamarin.Forms.Xaml.dll

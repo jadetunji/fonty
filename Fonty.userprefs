@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B2DFEC0A-5493-4065-AB49-FFC9ADAEDF0F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fonty/FontyPage.xaml">
+    <Files>
+      <File FileName="Fonty/FontyPage.xaml" Line="12" Column="30" />
+      <File FileName="iOS/AppDelegate.cs" Line="27" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Fonty.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F1003732-CBB2-48A7-B21E-6F59A4E4884D">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Fonty.iOS>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Fonty.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+</Properties>

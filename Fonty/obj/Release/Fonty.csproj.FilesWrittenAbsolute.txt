@@ -1,0 +1,10 @@
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/obj/Release/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/obj/Release/Fonty.App.xaml
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/obj/Release/Fonty.FontyPage.xaml
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/obj/Release/Fonty.App.xaml.g.cs
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/obj/Release/Fonty.FontyPage.xaml.g.cs
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/bin/Release/Fonty.dll
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/obj/Release/Fonty.dll
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/bin/Release/Xamarin.Forms.Core.dll
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/bin/Release/Xamarin.Forms.Platform.dll
+/Users/bakaresulaimon/Documents/sandbox/Fonty/Fonty/bin/Release/Xamarin.Forms.Xaml.dll
